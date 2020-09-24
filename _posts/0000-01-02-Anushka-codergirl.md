@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Coders are today’s rock stars
 Use the left arrow to go back!
